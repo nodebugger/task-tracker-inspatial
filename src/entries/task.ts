@@ -60,9 +60,9 @@ export const taskEntry = new EntryType("task", {
       label: "Priority",
       description: "The priority level of the task",
       choices: [
-        { value: "low", label: "Low" },
-        { value: "medium", label: "Medium" },
-        { value: "high", label: "High" },
+        { key: "low", label: "Low" },
+        { key: "medium", label: "Medium" },
+        { key: "high", label: "High" },
       ],
       defaultValue: "medium",
       required: false,

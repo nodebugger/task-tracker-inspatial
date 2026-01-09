@@ -6,3 +6,5 @@
 [2026-01-07T17:23:25.808Z] | [ORM Exception] | "EntryType task is not a valid entry type for role systemAdmin"
 [2026-01-07T17:35:36.264Z] | [ORM Exception] | "EntryType task is not a valid entry type for role systemAdmin"
 [2026-01-09T09:13:22.815Z] | [ORM Exception] | "EntryType task is not a valid entry type for role systemAdmin"
+[2026-01-09T09:26:07.890Z] | [ORM Exception] | "EntryType task is not a valid entry type for role systemAdmin"
+[2026-01-09T10:11:38.881Z] | [InvalidValue] | 'medium is not a valid value for field priority in entry task: Value "medium" is not a valid choice. Valid choices are: '

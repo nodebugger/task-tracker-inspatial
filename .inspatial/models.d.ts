@@ -7,7 +7,128 @@ import type {
 } from "@inspatial/cloud/types";
 
 declare module "@inspatial/cloud/models" {
+  type TaskFields = {
+    /**
+     * **Task Title** (DataField)
+     * @description The title of the task
+     * @type {string}
+     * @required true
+     */
+    title: string;
+    /**
+     * **Description** (TextField)
+     * @description Detailed description of the task
+     * @type {string}
+     */
+    description?: string | null;
+    /**
+     * **Completed** (BooleanField)
+     * @description Whether the task has been completed
+     * @type {boolean}
+     */
+    isCompleted: boolean;
+    /**
+     * **Priority** (ChoicesField)
+     * @description The priority level of the task
+     * @type {'low' | 'medium' | 'high'}
+     */
+    priority?: "low" | "medium" | "high" | null;
+    /**
+     * **Due Date** (DateField)
+     * @description The due date for the task
+     * @type {string}
+     */
+    dueDate?: string | null;
+    /**
+     * **Task** (IDField)
+     * @type {string}
+     * @required true
+     */
+    id: string;
+    /**
+     * **Created At** (TimeStampField)
+     * @description The date and time this entry was created
+     * @type {number}
+     * @required true
+     */
+    createdAt: number;
+    /**
+     * **Updated At** (TimeStampField)
+     * @description The date and time this entry was last updated
+     * @type {number}
+     * @required true
+     */
+    updatedAt: number;
+  };
+  export interface Task extends EntryBase<"task", TaskFields> {
+    _name: "task";
+    __fields__: TaskFields;
+    /**
+     * **Task Title** (DataField)
+     * @description The title of the task
+     * @type {string}
+     * @required true
+     */
+    $title: string;
+    /**
+     * **Description** (TextField)
+     * @description Detailed description of the task
+     * @type {string}
+     */
+    $description?: string | null;
+    /**
+     * **Completed** (BooleanField)
+     * @description Whether the task has been completed
+     * @type {boolean}
+     */
+    $isCompleted: boolean;
+    /**
+     * **Priority** (ChoicesField)
+     * @description The priority level of the task
+     * @type {'low' | 'medium' | 'high'}
+     */
+    $priority?: "low" | "medium" | "high" | null;
+    /**
+     * **Due Date** (DateField)
+     * @description The due date for the task
+     * @type {string}
+     */
+    $dueDate?: string | null;
+    /**
+     * **Task** (IDField)
+     * @type {string}
+     * @required true
+     */
+    $id: string;
+    /**
+     * **Created At** (TimeStampField)
+     * @description The date and time this entry was created
+     * @type {number}
+     * @required true
+     */
+    $createdAt: number;
+    /**
+     * **Updated At** (TimeStampField)
+     * @description The date and time this entry was last updated
+     * @type {number}
+     * @required true
+     */
+    $updatedAt: number;
+    runAction<N extends keyof TaskActionMap>(
+      actionName: N,
+    ): TaskActionMap[N]["return"];
+  }
+  type TaskActionMap = {
+    markComplete: {
+      return: Promise<unknown>;
+    };
+    markIncomplete: {
+      return: Promise<unknown>;
+    };
+  };
+
   export interface EntryMap {
+    task: Task;
   }
 
   export interface SettingsMap {

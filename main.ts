@@ -27,17 +27,5 @@ console.log("STARTING SERVER WITH TASK TRACKER EXTENSION");
 console.log("----------------------------------------");
 
 // Initialize the InSpatial Cloud application
-createInCloud({
-  // Application name (used in logs, config, etc.)
-  name: "taskTracker",
-
-  // Description shown in admin UI and documentation
-  description: "A simple task tracking application built with InSpatial Cloud",
-
-  // Version of the application
-  version: "1.0.0",
-
-  // Extensions to load (our task tracker module)
-  // Extensions bundle together: entry types, settings, API groups, roles, etc.
-  extensions: [taskTrackerExtension],
-});
+// Pass the app name as first argument, extensions as second argument
+createInCloud("taskTracker", [taskTrackerExtension]);
