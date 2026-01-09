@@ -1,0 +1,977 @@
+[2026-01-05T11:24:06.816Z] | [Task Tracker] | "                                 \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                                 \n" +
+  "\n" +
+  "                                                   \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                                   \n" +
+  "                                                   \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                                   \n" +
+  "                                                  \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                                  \n" +
+  "                                            \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                            \n" +
+  "\n" +
+  "                                                    Static files are served at:                                                    \n" +
+  "\x1b[96m                                                       http://localhost:8000                                                       \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                                       API is available at:                                                       \n" +
+  "\x1b[96m                                                     http://localhost:8000/api                                                     \x1b[0m\x1b[0m"
+[2026-01-05T11:24:09.244Z] | [Task Tracker] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-05T11:30:45.411Z] | [Task Tracker] | "Reloaded successfully."
+[2026-01-05T11:32:25.305Z] | [Task Tracker] | "Reloaded successfully."
+[2026-01-05T11:57:04.625Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-05T12:00:05.290Z] | [Task Tracker] | "                                 \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                                 \n" +
+  "                                 \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                                 \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-05T12:00:05.886Z] | [Task Tracker] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-05T12:12:47.556Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-05T12:13:49.964Z] | [Task Tracker] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-05T12:13:50.682Z] | [Task Tracker] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-05T12:14:00.137Z] | [Task Tracker] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-05T12:14:00.185Z] | [Task Tracker] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-05T12:14:11.636Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-07T08:30:35.988Z] | [Task Tracker] | "Reloaded successfully."
+[2026-01-07T08:35:04.048Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-07T09:39:01.421Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-07T09:46:11.067Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-07T10:14:05.147Z] | [Task Tracker] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T10:14:05.220Z] | [Task Tracker] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T10:14:05.288Z] | [Task Tracker] | "All processes have been shut down."
+[2026-01-07T10:34:34.483Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T10:34:34.526Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T10:54:32.705Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T10:55:52.229Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T10:55:52.290Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T10:56:45.448Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T10:58:01.351Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T10:58:01.437Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T10:59:24.347Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T11:01:27.580Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T11:01:27.616Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T16:05:58.144Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:06:44.044Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:19:39.898Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T16:21:53.492Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T16:21:53.536Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T16:25:43.204Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:27:53.074Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:31:11.584Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:31:40.715Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:34:17.075Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:35:39.649Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T16:36:31.363Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T16:36:31.530Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T16:40:29.462Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:40:49.828Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:41:22.081Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:41:47.662Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:43:15.151Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:43:46.781Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:49:25.452Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:50:14.259Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:52:09.811Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T16:52:54.781Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T16:52:54.813Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T16:55:09.062Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T16:56:05.821Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T16:56:43.826Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T16:56:43.877Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:23:16.484Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T17:23:16.507Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:31:25.977Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T17:31:26.075Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:40:18.910Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T17:40:39.652Z] | [In Spatial] | "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "\n" +
+  "                         \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                         \n" +
+  "                          \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                          \n" +
+  "                        \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                        \n" +
+  "                   \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                   \n" +
+  "\n" +
+  "                          Static files are served at:                          \n" +
+  "\x1b[96m                             http://localhost:8000                             \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                              API is available at:                              \n" +
+  "\x1b[96m                           http://localhost:8000/api                           \x1b[0m\x1b[0m"
+[2026-01-07T17:40:39.776Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:41:01.138Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T17:42:02.477Z] | [In Spatial] | "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m                         \n" +
+  "                         \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m                         \n" +
+  "\n" +
+  "                                          \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                                          \n" +
+  "                                           \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                                           \n" +
+  "                                         \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                                         \n" +
+  "                                    \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                                    \n" +
+  "\n" +
+  "                                           Static files are served at:                                           \n" +
+  "\x1b[96m                                              http://localhost:8000                                              \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                                               API is available at:                                               \n" +
+  "\x1b[96m                                            http://localhost:8000/api                                            \x1b[0m\x1b[0m"
+[2026-01-07T17:42:02.528Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:42:33.399Z] | [In Spatial] | "All processes have been shut down."
+[2026-01-07T17:43:42.316Z] | [In Spatial] | "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "\n" +
+  "                         \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                         \n" +
+  "                          \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                          \n" +
+  "                        \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                        \n" +
+  "                   \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                   \n" +
+  "\n" +
+  "                          Static files are served at:                          \n" +
+  "\x1b[96m                             http://localhost:8000                             \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                              API is available at:                              \n" +
+  "\x1b[96m                           http://localhost:8000/api                           \x1b[0m\x1b[0m"
+[2026-01-07T17:43:42.318Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:44:17.541Z] | [In Spatial] | "Reloaded successfully."
+[2026-01-07T17:46:24.642Z] | [In Spatial] | "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "\n" +
+  "                         \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                         \n" +
+  "                          \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                          \n" +
+  "                        \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                        \n" +
+  "                   \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                   \n" +
+  "\n" +
+  "                          Static files are served at:                          \n" +
+  "\x1b[96m                             http://localhost:8000                             \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                              API is available at:                              \n" +
+  "\x1b[96m                           http://localhost:8000/api                           \x1b[0m\x1b[0m"
+[2026-01-07T17:46:24.644Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-07T17:50:55.336Z] | [In Spatial] | "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                  \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m               \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m \x1b[0m\x1b[37m⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m   \x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙\x1b[0m\x1b[30m  \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m     \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m      \x1b[0m\x1b[37m⇙⇙⇙⇙⇙\x1b[0m\x1b[30m       \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m        \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m               \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m          \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m             \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m              \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                 \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                 \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                    \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                    \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                        \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[95m⇗⇗⇗⇗⇗\x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                       \x1b[0m\x1b[0m        \n" +
+  "        \x1b[30m                           \x1b[0m\x1b[37m⇙⇙⇙⇙⇙⇙⇙⇙⇙⇙\x1b[0m\x1b[30m                           \x1b[0m\x1b[0m        \n" +
+  "\n" +
+  "                         \x1b[94mBroker: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11254\x1b[0m\x1b[0m                         \n" +
+  "                          \x1b[94mQueue: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11354\x1b[0m\x1b[0m                          \n" +
+  "                        \x1b[94mDatabase: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m11527\x1b[0m\x1b[0m                        \n" +
+  "                   \x1b[94mServer: \x1b[0m\x1b[92mRunning\x1b[0m\x1b[37m on port \x1b[0m\x1b[93m8000 (1 instances)\x1b[0m\x1b[0m                   \n" +
+  "\n" +
+  "                          Static files are served at:                          \n" +
+  "\x1b[96m                             http://localhost:8000                             \x1b[0m\x1b[0m\n" +
+  "\n" +
+  "                              API is available at:                              \n" +
+  "\x1b[96m                           http://localhost:8000/api                           \x1b[0m\x1b[0m"
+[2026-01-07T17:50:55.340Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."

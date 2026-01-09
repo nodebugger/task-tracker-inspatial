@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "dev": "deno run -A --unstable-kv --unstable-broadcast-channel ../inspatial-cloud/cli/incloud.ts run main.ts",
+    "test-api": "deno run -A test_api.ts"
+  },
+  "imports": {
+    "@inspatial/cloud": "../inspatial-cloud/mod.ts",
+    "~/": "../inspatial-cloud/src/",
+    "#cli/": "../inspatial-cloud/cli/src/",
+    "#types/": "../inspatial-cloud/src/types/",
+    "#inLog": "../inspatial-cloud/src/in-log/in-log.ts",
+    "@inspatial/cloud-client": "jsr:@inspatial/cloud-client@^0.1.22"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "core": {
+      "type": "object",
+      "properties": {
+        "CLOUD_MODE": {
+          "type": "string",
+          "default": "development",
+          "description": "Specify if the server is running in development or production mode",
+          "enum": [
+            "development",
+            "production"
+          ]
+        },
+        "LOG_LEVEL": {
+          "type": "string",
+          "default": "info",
+          "description": "The log level for the server",
+          "enum": [
+            "debug",
+            "info",
+            "warn",
+            "error"
+          ]
+        },
+        "LOG_TRACE": {
+          "type": "boolean",
+          "description": "Whether to include the file and line number in the log output for info, warning and debug logs"
+        },
+        "BROKER_PORT": {
+          "type": "integer",
+          "default": 11254,
+          "description": "The port the message broker is listening on"
+        },
+        "QUEUE_PORT": {
+          "type": "integer",
+          "default": 11354,
+          "description": "The port the task queue service is listening on"
+        },
+        "SERVE_HOSTNAME": {
+          "type": "string",
+          "default": "localhost",
+          "description": "The hostname for the server"
+        },
+        "PUBLIC_ROOT": {
+          "type": "string",
+          "default": "./public",
+          "description": "The root directory for the public static files. This is used to serve static files like images, CSS, and JavaScript."
+        },
+        "SINGLE_PAGE_APP": {
+          "type": "boolean",
+          "description": "Whether the static files are being served as a SPA. This will default any path that's not a file to the root index.html"
+        },
+        "SPA_ROOT_PATHS": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "A list of sub-paths relative to the public root that should be treated as single page applications. This will default any path that's not a file to the index.html in the sub-path."
+        },
+        "CACHE_STATIC": {
+          "type": "boolean",
+          "description": "Whether to cache static files in memory for faster access. This is recommended for production environments."
+        },
+        "SERVE_PORT": {
+          "type": "integer",
+          "default": 8000,
+          "description": "The port for the server"
+        },
+        "SERVE_AUTO_CONFIG": {
+          "type": "boolean",
+          "description": "Whether to automatically generate the serve config schema when the server starts in development mode"
+        },
+        "ALLOWED_ORIGINS": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [
+            "*"
+          ],
+          "description": "Allowed CORS Origins"
+        },
+        "AUTO_TYPES": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automatically generate the ORM interfaces and types when the server starts and `CLOUD_MODE` is set to `development`"
+        },
+        "AUTO_MIGRATE": {
+          "type": "boolean",
+          "default": true,
+          "description": "Automatically run the migrations when the server starts and `SERVE_MODE` is set to `development`"
+        },
+        "DROP_TABLES": {
+          "type": "boolean",
+          "description": "Drop tables that are not in the current ORM model during auto-migrate. WARNING: This will delete all data in the dropped tables!"
+        },
+        "DEFAULT_CURRENCY": {
+          "type": "string",
+          "default": "USD",
+          "description": "Sets the default currency for the system",
+          "enum": [
+            "USD",
+            "EUR",
+            "GBP",
+            "JPY",
+            "AUD",
+            "CAD",
+            "ILS"
+          ]
+        },
+        "EMBEDDED_DB": {
+          "type": "boolean",
+          "default": true,
+          "description": "Use an embedded database for development purposes. This will use an embedded WASM version of Postgres."
+        },
+        "EMBEDDED_DB_PORT": {
+          "type": "integer",
+          "default": 11527,
+          "description": "The port to run the embedded database on"
+        },
+        "ORM_DEBUG_MODE": {
+          "type": "boolean",
+          "description": "Enable debug mode for the ORM. This will log all database queries to the console."
+        },
+        "DB_CONNECTION_TYPE": {
+          "type": "string",
+          "default": "tcp",
+          "description": "Type of the database connection ('tcp' or 'socket')",
+          "enum": [
+            "tcp",
+            "socket"
+          ]
+        },
+        "DB_SOCKET_PATH": {
+          "type": "string",
+          "default": "/var/run/postgresql/.s.PGSQL.5432",
+          "description": "Path to the database socket"
+        },
+        "DB_NAME": {
+          "type": "string",
+          "default": "inspatial",
+          "description": "Name of the database"
+        },
+        "DB_HOST": {
+          "type": "string",
+          "default": "localhost",
+          "description": "Host of the database"
+        },
+        "DB_PORT": {
+          "type": "integer",
+          "default": 5432,
+          "description": "Port of the database"
+        },
+        "DB_USER": {
+          "type": "string",
+          "default": "postgres",
+          "description": "User of the database"
+        },
+        "DB_PASSWORD": {
+          "type": "string",
+          "default": "postgres",
+          "description": "Password of the database"
+        },
+        "DB_APP_NAME": {
+          "type": "string",
+          "default": "InSpatial",
+          "description": "Application name for the database connection"
+        },
+        "DB_CLIENT_MODE": {
+          "type": "string",
+          "default": "single",
+          "description": "Client mode for the database connection",
+          "enum": [
+            "pool",
+            "single"
+          ]
+        },
+        "DB_POOL_SIZE": {
+          "type": "integer",
+          "default": 1,
+          "description": "The number of clients in the pool"
+        },
+        "DB_MAX_POOL_SIZE": {
+          "type": "integer",
+          "default": 10,
+          "description": "The maximum number of clients in the pool"
+        },
+        "DB_IDLE_TIMEOUT": {
+          "type": "integer",
+          "default": 5000,
+          "description": "The idle timeout for the pool"
+        },
+        "AUTH_ALLOW_ALL": {
+          "type": "boolean",
+          "description": "Disable authentication. !NOTE! This should only be used for development purposes!"
+        }
+      },
+      "required": [
+        "EMBEDDED_DB_PORT"
+      ],
+      "description": "InSpatial Cloud Core Extension"
+    },
+    "taskTracker": {
+      "type": "object",
+      "properties": {},
+      "required": [],
+      "description": ""
+    }
+  },
+  "required": []
+}

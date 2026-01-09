@@ -1,0 +1,55 @@
+[2026-01-05T11:24:05.455Z] | [System Admin User] | "                                       Creating a new admin user with the following details:                                       \n" +
+  "                                                       First Name: InSpatial                                                       \n" +
+  "                                                         Last Name: Admin                                                         \n" +
+  "                                                       Email: admin@user.com                                                       \n" +
+  "                                                        Password: password                                                        "
+[2026-01-05T11:26:04.832Z] | [ServerException] | "Group name is required"
+[2026-01-05T11:27:07.422Z] | [ServerException] | "Group and action names are required"
+[2026-01-05T11:30:34.495Z] | [System Admin User] | "                                       Creating a new admin user with the following details:                                       \n" +
+  "                                                       First Name: InSpatial                                                       \n" +
+  "                                                         Last Name: Admin                                                         \n" +
+  "                                                       Email: admin@user.com                                                       \n" +
+  "                                                        Password: password                                                        "
+[2026-01-05T12:09:55.336Z] | [ServerException] | "Group name is required"
+[2026-01-07T09:45:43.827Z] | [ServerException] | "Group name is required"
+[2026-01-07T10:34:34.342Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T10:55:51.888Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T10:58:01.102Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T11:01:27.494Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T16:05:55.129Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T16:21:51.564Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T16:56:42.116Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T17:23:14.498Z] | [System Admin User] | "                              Creating a new admin user with the following details:                              \n" +
+  "                                              First Name: InSpatial                                              \n" +
+  "                                                 Last Name: Admin                                                 \n" +
+  "                                              Email: admin@user.com                                              \n" +
+  "                                                Password: password                                                "
+[2026-01-07T17:32:01.783Z] | [ServerException] | "Group name is required"
