@@ -1312,3 +1312,4 @@
   "                                                            API is available at:                                                            \n" +
   "\x1b[96m                                                         http://localhost:8000/api                                                         \x1b[0m\x1b[0m"
 [2026-01-09T10:14:26.762Z] | [In Spatial] | "Watching for file changes. Press Ctrl+C to stop."
+[2026-01-09T10:16:47.074Z] | [In Spatial] | "Reloaded successfully."
