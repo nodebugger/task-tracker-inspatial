@@ -15,3 +15,4 @@
 [2026-01-07T16:54:43.257Z] | [In Spatial: migrator] | "\x1b[37mExit code \x1b[0m\x1b[91m1\x1b[0m\x1b[0m"
 [2026-01-07T17:40:21.872Z] | [In Spatial: broker] | "\x1b[37mExit code \x1b[0m\x1b[91m1\x1b[0m\x1b[0m"
 [2026-01-07T17:41:05.097Z] | [In Spatial: db] | "\x1b[37mExit code \x1b[0m\x1b[91m1\x1b[0m\x1b[0m"
+[2026-01-09T09:11:21.196Z] | [In Spatial: server] | "\x1b[37mExit code \x1b[0m\x1b[91m-1073741510\x1b[0m\x1b[0m"
