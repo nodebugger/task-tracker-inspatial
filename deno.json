@@ -1,7 +1,7 @@
 {
   "tasks": {
     "dev": "deno run -A --unstable-kv --unstable-broadcast-channel ../inspatial-cloud/cli/incloud.ts run main.ts",
-    "test-api": "deno run -A test_api.ts"
+    "test-api": "deno run -A test/test_api.ts"
   },
   "imports": {
     "@inspatial/cloud": "../inspatial-cloud/mod.ts",

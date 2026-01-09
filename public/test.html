@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task Tracker API Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+        pre { background: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
+        input, textarea { width: 100%; padding: 8px; margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <h1>Task Tracker API Test</h1>
+    
+    <h2>1. Login</h2>
+    <button onclick="login()">Login as Admin</button>
+    
+    <h2>2. Create Task</h2>
+    <input type="text" id="taskTitle" placeholder="Task Title" value="Test Task">
+    <textarea id="taskDesc" placeholder="Description">Task description here</textarea>
+    <select id="taskPriority">
+        <option value="low">Low</option>
+        <option value="medium" selected>Medium</option>
+        <option value="high">High</option>
+    </select>
+    <button onclick="createTask()">Create Task</button>
+    
+    <h2>3. Get Tasks</h2>
+    <button onclick="getTasks()">Get All Tasks</button>
+    
+    <h2>Response:</h2>
+    <pre id="response">Results will appear here...</pre>
+
+    <script>
+        async function apiCall(action, body, group = 'entry') {
+            const res = await fetch(`/api?group=${group}&action=${action}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(body)
+            });
+            const data = await res.json();
+            document.getElementById('response').textContent = JSON.stringify(data, null, 2);
+            return data;
+        }
+
+        async function login() {
+            await apiCall('login', {
+                email: 'admin@user.com',
+                password: 'password'
+            }, 'auth');
+        }
+
+        async function createTask() {
+            await apiCall('createEntry', {
+                entryType: 'task',
+                data: {
+                    title: document.getElementById('taskTitle').value,
+                    description: document.getElementById('taskDesc').value,
+                    priority: document.getElementById('taskPriority').value
+                }
+            });
+        }
+
+        async function getTasks() {
+            await apiCall('getEntryList', {
+                entryType: 'task',
+                options: { limit: 10 }
+            });
+        }
+    </script>
+</body>
+</html>

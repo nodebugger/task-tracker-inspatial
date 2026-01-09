@@ -53,3 +53,7 @@
   "                                              Email: admin@user.com                                              \n" +
   "                                                Password: password                                                "
 [2026-01-07T17:32:01.783Z] | [ServerException] | "Group name is required"
+[2026-01-09T10:22:52.809Z] | [ServerException] | "Group name is required"
+[2026-01-09T10:22:55.399Z] | [ServerException] | "Group name is required"
+[2026-01-09T10:25:00.596Z] | [ServerException] | "email, password are required for login"
+[2026-01-09T10:25:20.715Z] | [ServerException] | "entryType, data are required for createEntry"
